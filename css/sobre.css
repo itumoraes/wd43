@@ -1,10 +1,14 @@
 body {
   font-family: "Helvetica", "Lucida Grande", sans-serif;
   color: #3D3D3D;
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
   background-color: #E1EDF2;
+  padding: 10px;
 }
 
 h2 {
@@ -15,4 +19,10 @@ figure {
   text-align: center;
   background-color: whitesmoke;
   border: 1px solid lightgrey;
+  margin: 10px;
+  padding: 15px;
+}
+
+figcaption {
+  margin-top: 10px;
 }
