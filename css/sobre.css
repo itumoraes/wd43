@@ -6,12 +6,13 @@ body {
   margin-right: auto;
 }
 
-h1 {
+.titulo {
   background-color: #E1EDF2;
   padding: 10px;
+  font-size: 32px;
 }
 
-h2 {
+.subtitulo {
   border-bottom: 2px solid black;
 }
 
